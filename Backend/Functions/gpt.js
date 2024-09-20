@@ -1,5 +1,3 @@
-// https://api.openai.com/v1/chat/completions
-//sk-PXCPidSsX_4wDcJf8e67sBr54CVJ-7eCFC3fnig1PZT3BlbkFJOi9M2tXa1aVERjtMCw1ZhxLcOLTx-AOGCrFcOcFb4A
 
 
 const express = require('express');  
@@ -75,5 +73,9 @@ async function getGptResponse(req,res) {
 }
 
 module.exports = getGptResponse; // Export the getGptResponse function for use in routes 
+
+
+
+axios.post('' , {})
 
 
