@@ -50,8 +50,8 @@ This web application allows users to create a custom GPT-powered chat interface 
 For any questions, feedback, or support regarding the GPT-Fy me Improvement, you can reach out through the following methods:
 
 - **Email**: [kpskrishpatel@gmail.com](mailto:your-email@example.com)
-- **GitHub**: [https://github.com/KrishKPs](https://github.com/your-username/your-repository/issues)
-- **LinkedIn**: [https://www.linkedin.com/in/krish-patel-35bb57266/](https://www.linkedin.com/in/your-profile)
-- **Twitter**: [https://x.com/KrishPatel41696](https://twitter.com/yourtwitterhandle)
+- **GitHub**: (https://github.com/KrishKPs)
+- **LinkedIn**: (https://www.linkedin.com/in/krish-patel-35bb57266/)
+- **Twitter**: (https://x.com/KrishPatel41696)
 
 Feel free to ask for help, report bugs, or suggest improvements. Your feedback is appreciated!
